@@ -11,7 +11,7 @@ import os
 # === الإعدادات الأساسية ===
 API_ID = 30421842
 API_HASH = "bfed8c6f671c1cc4db37cc479bcac370"
-OWNER_ID = 5685233553
+OWNER_ID = 8258889952
 BOT_TOKEN = "8346148314:AAFYJub4rcAWprFFewqJYTOhx1HSftCRWfU"
 
 WORKER_TOKENS = [
